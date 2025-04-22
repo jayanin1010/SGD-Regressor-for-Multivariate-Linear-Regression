@@ -21,7 +21,7 @@ Developed by: JAYANI N
 RegisterNumber:  212224100025
 */
 ```
-import numpy as np
+        import numpy as np
         import pandas as pd
         from sklearn.datasets import fetch_california_housing
         from sklearn.linear_model import SGDRegressor
